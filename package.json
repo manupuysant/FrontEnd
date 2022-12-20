@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "index.js",
-  "homepage": "https://github.com/manupuysant/FrontEnd#readme",
+  "homepage": "https://manupuysant.github.io/FrontEnd",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "sass": "node-sass -w scss/ -o dist/css/",
@@ -19,7 +19,6 @@
     "url": "https://github.com/manupuysant/FrontEnd/issues"
   },
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "node-sass": "^8.0.0"
   }
 }
